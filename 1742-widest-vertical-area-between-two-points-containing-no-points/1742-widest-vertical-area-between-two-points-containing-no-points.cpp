@@ -5,11 +5,8 @@ public:
 
         for (int i = 0 ; i < points.size() ; i ++)
         {
-            for (int j = 0 ; j < points[i].size() ; j ++)
-            {
-                v.push_back(points[i][j]) ;
-                break ;
-            }
+            // only storing X coordinate
+            v.push_back(points[i][0]) ;
         }
         sort(v.begin(), v.end()) ;
 
