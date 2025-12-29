@@ -6,6 +6,7 @@ https://leetcode.com/nipunrathore/
 ## Array
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
@@ -15,4 +16,8 @@ https://leetcode.com/nipunrathore/
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
