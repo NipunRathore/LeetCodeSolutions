@@ -28,6 +28,7 @@ https://leetcode.com/nipunrathore/
 | ------- |
 | [0066-plus-one](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3516-find-closest-person](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3516-find-closest-person) |
 ## Hash Table
 |  |
 | ------- |
