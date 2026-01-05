@@ -10,6 +10,7 @@ https://leetcode.com/nipunrathore/
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3074-apple-redistribution-into-boxes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -33,4 +34,12 @@ https://leetcode.com/nipunrathore/
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Greedy
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
+## Sorting
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
