@@ -7,6 +7,7 @@ https://leetcode.com/nipunrathore/
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0812-largest-triangle-area](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0812-largest-triangle-area) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -28,6 +29,7 @@ https://leetcode.com/nipunrathore/
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0812-largest-triangle-area](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0812-largest-triangle-area) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-find-closest-person](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3516-find-closest-person) |
 ## Hash Table
@@ -42,4 +44,8 @@ https://leetcode.com/nipunrathore/
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
