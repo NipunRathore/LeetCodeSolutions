@@ -38,6 +38,7 @@ https://leetcode.com/nipunrathore/
 ## Hash Table
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Greedy
 |  |
@@ -55,4 +56,20 @@ https://leetcode.com/nipunrathore/
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
