@@ -11,6 +11,7 @@ https://leetcode.com/nipunrathore/
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -23,6 +24,7 @@ https://leetcode.com/nipunrathore/
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1975-maximum-matrix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +45,7 @@ https://leetcode.com/nipunrathore/
 ## Greedy
 |  |
 | ------- |
+| [1975-maximum-matrix-sum](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NipunRathore/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
